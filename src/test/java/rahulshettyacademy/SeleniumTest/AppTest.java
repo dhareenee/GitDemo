@@ -18,5 +18,8 @@ public class AppTest
         assertTrue( true );
         System.out.println("New Line of code");
         System.out.println("Next new line of code");
+        System.out.println("Branch test 1");
+        System.out.println("Branch test 2");
+        System.out.println("NBranch test 3");
     }
 }
