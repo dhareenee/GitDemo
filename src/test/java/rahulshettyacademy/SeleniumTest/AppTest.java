@@ -17,5 +17,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("New Line of code");
+        System.out.println("Next new line of code");
     }
 }
